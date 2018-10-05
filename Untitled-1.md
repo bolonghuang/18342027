@@ -28,4 +28,12 @@ The octal numeral system, or oct for short, is the base-8 number system, and use
 Sixteen digit counting system 
 In mathematics and computing, hexadecimal (also base 16, or hex) is a positional numeral system with a radix, or base, of 16. It uses sixteen distinct symbols, most often the symbols 0–9 to represent values zero to nine, and A–F (or alternatively a–f) to represent values ten to fifteen.
 ![jinzhi](https://github.com/bolonghuang/boolong/blob/master/jinzhi.jpg)
+Part three
+一分12秒=72000毫秒
+（7A）13=（101）10
+（7A）16=（122)10
+(7A)16=(1110000)2=(160)8
+(1011011)2=(133)8=(5B)16
+(678)10=(10101001102)2=(1246)8
+(111)2+(101)2=(1100)2
 
