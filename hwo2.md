@@ -21,26 +21,26 @@ part two
 1)Information  
 
 Information is any entity or form that provides the answer to a 
-question of some kind or resolves uncertainty.     
+question of some kind or resolves uncertainty.  ![information](https://github.com/bolonghuang/18342027/blob/gh-pages/Information.jpg)   
   
 
 2）Positional notation
 
 Positional notation or place-value notation is a method of 
-representing or encoding numbers.
+representing or encoding numbers.![positional](https://github.com/bolonghuang/18342027/blob/gh-pages/屏幕截图(4).png)
 
 
 3)Algorithm
 
 In mathematics and computer science, an algorithm  is an unambiguous 
-specification of how to solve a class of problems. 
+specification of how to solve a class of problems. ![algorith](https://github.com/bolonghuang/18342027/blob/gh-pages/Algorithm.png)
 
 
 4)Software bug
 
 A software bug is an error, flaw, failure or fault in a computer
  program or system that causes it to produce an incorrect or unexpected
-  result, or to behave in unintended ways.
+  result, or to behave in unintended ways.![software](https://github.com/bolonghuang/18342027/blob/gh-pages/bug.jpg)
 
 
 
@@ -64,4 +64,4 @@ and uses the digits 0 to 7.
 
 4）十六进制
 In mathematics and computing, hexadecimal (also base 16, or hex) is a 
-positional numeral system with a radix, or base, of 16. 
+positional numeral system with a radix, or base, of 16. ![jinzhi]()
