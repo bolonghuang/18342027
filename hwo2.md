@@ -67,4 +67,4 @@ and uses the digits 0 to 7.
 
 4）十六进制
 In mathematics and computing, hexadecimal (also base 16, or hex) is a 
-positional numeral system with a radix, or base, of 16. ![jinzhi]()
+positional numeral system with a radix, or base, of 16. ![jinzhi](https://github.com/bolonghuang/18342027/blob/gh-pages/进制表.jpg)
