@@ -53,8 +53,7 @@ Decimal (base ten) number system, used in mathematics for writing
 
 2）二进制
 
-A binary system is a system of two astronomical bodies which are close 
-enough that their gravitational attraction causes them to orbit each
+A binary system is a system of two astronomical bodies which are close enough that their gravitational attraction causes them to orbit each
  other around a barycenter (also see animated examples). 
 
 3）八进制
