@@ -36,6 +36,6 @@ LOL,我相信这款游戏陪伴不少成长。一年一度的世界LOL比赛，�
 到了电脑的强打，也可以说是软件的强大。  
   虽然，第一次作的游戏费了点时间，也不算尽美，但是学到东西  
 了嘛。  
-  第一篇游戏博客就到这了。![yx]  (https://github.com/bolonghuang/18342027/blob/gh-pages/gif.gif)
+  第一篇游戏博客就到这了。![gif.gif](https://github.com/bolonghuang/18342027/blob/gh-pages/gif.gif?raw=true)
 
-         
+​         
