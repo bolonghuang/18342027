@@ -9,6 +9,7 @@
 5. [05-门与电路作业](hw05)
 6. [计算机硬件基础知识](hw06)
 7. [fetch-excute cycle的基本知识](hw07)
+8. [Pseudocode, Top-dowm design,WBS](hw08)
 
 ## 实验与实践
 
