@@ -10,6 +10,7 @@
 6. [计算机硬件基础知识](hw06)
 7. [fetch-excute cycle的基本知识](hw07)
 8. [Pseudocode, Top-dowm design,WBS](hw08)
+9. [通过牧师与恶魔过河小游戏学习类与对象](hw09)
 
 ## 实验与实践
 
