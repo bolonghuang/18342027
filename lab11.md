@@ -2,7 +2,7 @@
 
 1.索菲亚引起的争论
     
-索菲亚公民身份的获得：2017年10月26日，在沙特首都利雅得举办的“未来投资大会”（Future Investment Initiative）上，沙特政府授予了机器人“索菲亚”（Sophia）国籍。
+索菲亚公民身份的获得：2017年10月26日，在沙特首都利雅得举办的“未来投资大会”（Future Investment Initiative）上，沙特政府授予了机器人“索菲亚”（Sophia）国籍。![b812c8fcc3cec3fd5c0a8c68db88d43f879427f2[1].png](https://github.com/bolonghuang/18342027/blob/gh-pages/b812c8fcc3cec3fd5c0a8c68db88d43f879427f2%5B1%5D.png?raw=true)
     
 争议：
 (1)在会议中，来自CNBC的主持人索金（Andrew Ross Sorkin）还问了索菲亚一个尖锐的问题：“机器人是不是应该有自我意识，就像人类一样？对此索菲亚反问说：“为什么，这难道是一件坏事吗？” 
